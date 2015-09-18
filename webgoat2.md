@@ -1,4 +1,4 @@
-# WebGoat Lab Assinment 06 #
+# WebGoat Lab Assignment 06 #
 
 ![image1](https://scontent-sin1-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/12032179_578202635653747_2332403029506562134_n.jpg?oh=b9bb25c0fee56e2140b80f9237ad0125&oe=565E7EE0)
 
